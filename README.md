@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vignesh Shankar</h1>
+<h3 align="center">Zen Class Learner from Chennai, India.</h3>
 
-<!--
-**wikneshshankar/wikneshshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Digital Marketing from Guvi**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **wikneshshankar@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/wikneshshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wikneshshankar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wikneshshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wikneshshankar" height="30" width="40" /></a>
+<a href="https://fb.com/wikneshshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wikneshshankar" height="30" width="40" /></a>
+<a href="https://instagram.com/wikneshshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wikneshshankar" height="30" width="40" /></a>
+</p>
