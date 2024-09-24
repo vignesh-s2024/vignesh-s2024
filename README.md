@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Digital Marketing from Guvi**
 
-- 👨‍💻 Personal Website [https://wikneshshankar.netlify.app/](https://wikneshshankar.netlify.app/)
-
 - 📫 How to reach me **wikneshshankar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
