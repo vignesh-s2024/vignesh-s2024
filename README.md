@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vigneshxshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vigneshxshankar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vigneshxshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshxshankar" height="30" width="40" /></a>
-<a href="https://fb.com/vigneshxshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vigneshxshankar" height="30" width="40" /></a>
-<a href="https://instagram.com/vigneshxshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vigneshxshankar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vigneshs25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshshankar" height="30" width="40" /></a>
+<a href="https://fb.com/vigneshsx25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vigneshshankar" height="30" width="40" /></a>
+<a href="https://instagram.com/vigneshsx25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vigneshshankar" height="30" width="40" /></a>
 </p>
